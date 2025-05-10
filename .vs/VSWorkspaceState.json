@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\chat-app-frontend",
+    "\\chat-app-frontend\\src",
+    "\\chat-app-frontend\\src\\components",
+    "\\ChatAppBackend",
+    "\\ChatAppBackend\\Hubs"
+  ],
+  "SelectedNode": "\\ChatAppBackend\\Hubs\\ChatHub.cs",
+  "PreviewInSolutionExplorer": false
+}

@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "xslO3nQiJsFz+gOcNfysMd8X8xpYMkIkxOu4zVA7ykQ=",
+  "Source": "ChatAppBackend",
+  "BasePath": "_content/ChatAppBackend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
